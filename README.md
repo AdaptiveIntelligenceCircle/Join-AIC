@@ -1,4 +1,4 @@
-# join-AIC — Onboarding & Community Hub for AIC
+# Join-AIC — Onboarding & Community Hub for AIC
 
 Welcome to **join-AIC** — an onboarding portal for anyone interested in joining, collaborating, or connecting to the AIC (Adaptive Intelligence Circle) ecosystem.
 
