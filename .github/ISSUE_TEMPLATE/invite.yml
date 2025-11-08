@@ -3,10 +3,10 @@ on:
   workflow_dispatch:
     inputs:
       github_username:
-        description: 'GitHub username của người được mời'
+        description: 'GitHub username'
         required: true
       team:
-        description: 'Tên team trong tổ chức (ví dụ: core, ai-research, protocol, doc)'
+        description: 'The name of the team (For example :AdaptiveAI, IBCS, DIP, etc)'
         required: true
 
 jobs:
