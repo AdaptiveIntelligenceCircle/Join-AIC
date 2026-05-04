@@ -12,7 +12,7 @@ We are building an independent, ethical AI protocol that prioritizes long-term h
 
 ## How to Contribute
 
-**Step 1:** Read our core documents
+**Step 1:** Read our core documents in AIC-LEGAL.
 - ZERO-DONATION-POLICY.md
 - THIRD-PATH-PRINCIPLES.md
 - GOVERNANCE.md
